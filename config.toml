@@ -1,0 +1,4 @@
+baseURL = "localhost"
+languageCode = "en-gb"
+title = "George's Blog"
+theme = "hugo-ink"
