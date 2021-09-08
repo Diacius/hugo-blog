@@ -1,4 +1,13 @@
-baseURL = "blog.ginger-ninja.uk"
-languageCode = "en-gb"
+relativeURLs = true
+baseURL = "/"
+languageCode = "en"
 title = "George's Blog"
 theme = "hugo-ink"
+
+[menu]
+
+  [[menu.main]]
+    identifier = "home"
+    name = "Home"
+    url = "/"
+    weight = 1
