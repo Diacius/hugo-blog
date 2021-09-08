@@ -1,7 +1,7 @@
 ---
 title: "About Me & This Blog"
 date: 2021-09-08T18:22:05+01:00
-draft: true
+draft: false
 ---
 
 ## About Me
