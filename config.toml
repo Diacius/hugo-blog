@@ -11,3 +11,8 @@ theme = "hugo-ink"
     name = "Home"
     url = "/"
     weight = 1
+  [[menu.main]]
+      identifier = "about me"
+      name = "About Me"
+      url = "about"
+      weight = 10
