@@ -15,4 +15,9 @@ theme = "hugo-ink"
       identifier = "about me"
       name = "About Me"
       url = "about_me"
-      weight = 10
+      weight = 2
+  [[menu.main]]
+      identifier = "back"
+      name = "Back to my website"
+      url = "https://ginger-ninja.uk"
+      weight = 30
