@@ -12,5 +12,5 @@ I like graphic design, coding and playing games
 
 ## About The Blog
 
-I blog here about nothing in paticular, and on no schedule.
-If I find something intresting, I might write about it.
+I blog here about nothing in particular, and on no schedule.
+If I find something interesting, I might write about it.
