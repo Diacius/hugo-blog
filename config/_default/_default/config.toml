@@ -1,6 +1,6 @@
 baseURL = "https://blog.ginger-ninja.uk"
 title = "George's Blog"
-theme = "zzo"
+theme = "hugo-ink"
 
 defaultContentLanguage = "en"
 defaultContentLanguageInSubdir = true
